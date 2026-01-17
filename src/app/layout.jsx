@@ -22,7 +22,7 @@ export default function RootLayout({ children }) {
         <Navbar />
 
         {/* Page Content */}
-        <main className="min-h-screen px-6 py-4">{children}</main>
+        <main className="min-h-screen">{children}</main>
 
         {/* Footer */}
         <Footer />
