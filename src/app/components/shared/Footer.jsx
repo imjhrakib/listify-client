@@ -3,7 +3,7 @@ import { FaTwitter, FaLinkedin, FaGithub } from "react-icons/fa";
 
 export default function Footer() {
   return (
-    <footer className="bg-[#1B3C53] text-[#D2C1B6] border-t border-[#234C6A]">
+    <footer className="bg-[#1B3E75] text-[#D2C1B6] border-t border-[#234C6A]">
       <div className="max-w-7xl mx-auto px-6 py-12 grid md:grid-cols-3 gap-8">
         {/* About Section */}
         <div>

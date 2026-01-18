@@ -7,7 +7,7 @@ export default function HeroSection() {
     <section className="w-full h-screen bg-[#1B3C53] text-white flex items-center justify-center">
       <div className="text-center px-4 sm:px-6 lg:px-8">
         {/* Heading */}
-        <h1 className="text-5xl sm:text-6xl font-extrabold mb-6 leading-tight">
+        <h1 className="text-5xl sm:text-6xl font-extrabold leading-tight">
           Welcome to <span className="text-yellow-300">Listify</span>
         </h1>
 
